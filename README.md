@@ -1,4 +1,4 @@
-# securityhub-standard-auto-remediation
+# securityhub-standard-auto-remediation-CIS-solution
 ## [CIS AWS Foundations Benchmark standard](https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-standards-cis.html)
 referenced from aws blog https://aws.amazon.com/cn/blogs/security/automated-response-and-remediation-with-aws-security-hub/
 
